@@ -1841,5 +1841,95 @@
                 }
             }
         }
-    }
+    },
+    "LFBZ": {
+        "elevation": 245,
+        "sids": {
+            "SOSTO": {
+                "cfl": 7000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "SOSTO2D",
+                        "cfl": 7000,
+                        "pro_dep": "SOSTO2D",
+                        "cfl_prop": 7000
+                    },
+                    "27": {
+                        "jet_dep": "SOSTO2F",
+                        "cfl": 7000,
+                        "pro_dep": "SOSTO2F",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "SOVOS": {
+                "cfl": 7000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "SOVOS2D",
+                        "cfl": 7000,
+                        "pro_dep": "SOVOS2D",
+                        "cfl_prop": 7000
+                    },
+                    "27": {
+                        "jet_dep": "SOVOS2F",
+                        "cfl": 7000,
+                        "pro_dep": "SOVOS2F",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "VAVIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "VAVIX2D",
+                        "cfl": 7000,
+                        "pro_dep": "VAVIX2D",
+                        "cfl_prop": 7000
+                    },
+                    "27": {
+                        "jet_dep": "VAVIX2F",
+                        "cfl": 7000,
+                        "pro_dep": "VAVIX2F",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "DONOS": {
+                "cfl": 8000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "DONOS2D",
+                        "cfl": 8000,
+                        "pro_dep": "DONOS2D",
+                        "cfl_prop": 8000
+                    },
+                    "27": {
+                        "jet_dep": "DONOS2F",
+                        "cfl": 8000,
+                        "pro_dep": "DONOS2F",
+                        "cfl_prop": 8000
+                    }
+                }
+            },
+            "SSN": {
+                "cfl": 8000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "SSN2D",
+                        "cfl": 8000,
+                        "pro_dep": "SSN2D",
+                        "cfl_prop": 8000
+                    },
+                    "27": {
+                        "jet_dep": "SSN2F",
+                        "cfl": 8000,
+                        "pro_dep": "SSN2F",
+                        "cfl_prop": 8000
+                    }
+                }
+            }
+        }
+    }	
 }
