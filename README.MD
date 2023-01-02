@@ -6,10 +6,10 @@
 |--|--|--|
 | LFPG | :white_check_mark: | :white_check_mark: |
 | LFMN | :white_check_mark: | :white_check_mark: |
-| LFBO | :white_check_mark: | :white_check_mark: |
 | LFLL | :white_check_mark: | :white_check_mark: |
 | LFST | :white_check_mark: | :white_check_mark: |
 | LFSB | :white_check_mark: | :white_check_mark: |
+| LFBO | :white_check_mark: | :white_check_mark: |
 | LFBZ | :white_check_mark: | :white_check_mark: |
 
 ### Routing.json
@@ -18,8 +18,8 @@
 |--|--|--|
 | LFPG | :white_check_mark: | :white_check_mark: |
 | LFMN | :white_check_mark: | :white_check_mark: |
-| LFBO | :white_check_mark: | :white_check_mark: |
 | LFLL | :white_check_mark: | :white_check_mark: |
 | LFST | :white_check_mark: | :white_check_mark: |
 | LFSB | :white_check_mark: | :white_check_mark: |
+| LFBO | :white_check_mark: | :white_check_mark: |
 | LFBZ | :white_check_mark: | :white_check_mark: |
