@@ -1936,5 +1936,125 @@
                 }
             }
         }
+    }"LFBD": {
+        "elevation": 166,
+        "sids": {
+            "CNA": {
+                "cfl": 7000,
+                "rwys": {
+                    "23": {
+                        "jet_dep": "CNA5P",
+                        "prop_dep": "CNA5P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "05": {
+                        "jet_dep": "CNA5Q",
+                        "prop_dep": "CNA5Q",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "CNA5R",
+                        "prop_dep": "CNA5R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "11": {
+                        "jet_dep": "CNA5E",
+                        "prop_dep": "CNA5E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "SAU": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "SAU5Q",
+                        "prop_dep": "SAU5Q",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "SAU5P",
+                        "prop_dep": "SAU5P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "SAU5R",
+                        "prop_dep": "SAU5R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "11": {
+                        "jet_dep": "SAU5E",
+                        "prop_dep": "SAU5E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "VAVIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "VAVIX5Q",
+                        "prop_dep": "VAVIX5Q",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "VAVIX5P",
+                        "prop_dep": "VAVIX5P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "VAVIX5R",
+                        "prop_dep": "VAVIX5R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "11": {
+                        "jet_dep": "VAVIX5E",
+                        "prop_dep": "VAVIX5E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "ROYAN": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "ROYAN5Q",
+                        "prop_dep": "ROYAN5Q",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "ROYAN5P",
+                        "prop_dep": "ROYAN5P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "ROYAN5R",
+                        "prop_dep": "ROYAN5R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "11": {
+                        "jet_dep": "ROYAN5E",
+                        "prop_dep": "ROYAN5E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            }
+        }
     }	
 }
