@@ -10,7 +10,8 @@
 | LFST | :white_check_mark: | :white_check_mark: |
 | LFSB | :white_check_mark: | :white_check_mark: |
 | LFBO | :white_check_mark: | :white_check_mark: |
-| LFBZ | :white_check_mark: | :white_check_mark: |
+| LFBZ | :x: | :white_check_mark: |
+| LFBD | :x: | :white_check_mark: |
 
 ### Routing.json
 
@@ -22,4 +23,5 @@
 | LFST | :white_check_mark: | :white_check_mark: |
 | LFSB | :white_check_mark: | :white_check_mark: |
 | LFBO | :white_check_mark: | :white_check_mark: |
-| LFBZ | :white_check_mark: | :white_check_mark: |
+| LFBZ | :x: | :white_check_mark: |
+| LFBD | :x: | :white_check_mark: |
