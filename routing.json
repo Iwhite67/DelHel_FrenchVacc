@@ -899,70 +899,16 @@
   "LFLL": {
     "entry": [
       {
-        "name": "ALURA",
+        "name": "BELUS",
         "routes": [
           {
             "icao": "",
-            "maxlvl": 195,
+            "maxlvl": 120,
             "minlvl": 0,
-            "waypoints": []
-          }
-        ]
-      },
-      {
-        "name": "MURRO",
-        "routes": [
-          {
-            "icao": "",
-            "maxlvl": 195,
-            "minlvl": 0,
-            "waypoints": []
-          }
-        ]
-      },
-      {
-        "name": "VEROT",
-        "routes": [
-          {
-            "icao": "",
-            "maxlvl": 195,
-            "minlvl": 0,
-            "waypoints": []
-          }
-        ]
-      },
-      {
-        "name": "LERGA",
-        "routes": [
-          {
-            "icao": "",
-            "maxlvl": 999,
-            "minlvl": 195,
-            "waypoints": []
-          }
-        ]
-      },
-      {
-        "name": "MOKIP",
-        "routes": [
-          {
-            "icao": "",
-            "maxlvl": 999,
-            "minlvl": 195,
-            "waypoints": []
-          }
-        ]
-      },
-      {
-        "name": "REPSI",
-        "routes": [
-          {
-            "icao": "",
-            "maxlvl": 999,
-            "minlvl": 195,
             "waypoints": []
           }
         ]
       }
     ]
   }
+}
