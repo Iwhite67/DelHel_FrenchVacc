@@ -1632,13 +1632,13 @@
                     "23": {
                         "jet_dep": "POGOL1Y",
                         "cfl": 7000,
-                        "pro_dep": "POGOL1Y",
+                        "prop_dep": "POGOL1Y",
                         "cfl_prop": 7000
                     },
                     "05": {
                         "jet_dep": "POGOL1Z",
                         "cfl": 7000,
-                        "pro_dep": "POGOL1Z",
+                        "prop_dep": "POGOL1Z",
                         "cfl_prop": 7000
                     }
                 }
@@ -1749,13 +1749,13 @@
                     "15": {
                         "jet_dep": "LASAT7S",
                         "cfl": 7000,
-                        "pro_dep": "LASAT7S",
+                        "prop_dep": "LASAT7S",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "LASAT7N",
                         "cfl": 7000,
-                        "pro_dep": "LASAT7N",
+                        "prop_dep": "LASAT7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1766,13 +1766,13 @@
                     "15": {
                         "jet_dep": "ELBEG7S",
                         "cfl": 7000,
-                        "pro_dep": "ELBEG7S",
+                        "prop_dep": "ELBEG7S",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "ELBEG7N",
                         "cfl": 7000,
-                        "pro_dep": "ELBEG7N",
+                        "prop_dep": "ELBEG7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1783,13 +1783,13 @@
                     "15": {
                         "jet_dep": "OLBEN7S",
                         "cfl": 7000,
-                        "pro_dep": "OLBEN7S",
+                        "prop_dep": "OLBEN7S",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "OLBEN7N",
                         "cfl": 7000,
-                        "pro_dep": "OLBEN7N",
+                        "prop_dep": "OLBEN7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1800,13 +1800,13 @@
                     "15": {
                         "jet_dep": "LUMEL7S",
                         "cfl": 7000,
-                        "pro_dep": "LUMEL7S",
+                        "prop_dep": "LUMEL7S",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "LUMEL7N",
                         "cfl": 7000,
-                        "pro_dep": "LUMEL7N",
+                        "prop_dep": "LUMEL7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1817,13 +1817,13 @@
                     "15": {
                         "jet_dep": "MOROK7T",
                         "cfl": 7000,
-                        "pro_dep": "MOROK7T",
+                        "prop_dep": "MOROK7T",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "MOROK7N",
                         "cfl": 7000,
-                        "pro_dep": "MOROK7N",
+                        "prop_dep": "MOROK7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1834,13 +1834,13 @@
                     "15": {
                         "jet_dep": "TORPA7T",
                         "cfl": 7000,
-                        "pro_dep": "TORPA7T",
+                        "prop_dep": "TORPA7T",
                         "cfl_prop": 7000
                     },
                     "33": {
                         "jet_dep": "TORPA7N",
                         "cfl": 7000,
-                        "pro_dep": "TORPA7N",
+                        "prop_dep": "TORPA7N",
                         "cfl_prop": 7000
                     }
                 }
@@ -1856,13 +1856,13 @@
                     "09": {
                         "jet_dep": "SOSTO2D",
                         "cfl": 7000,
-                        "pro_dep": "SOSTO2D",
+                        "prop_dep": "SOSTO2D",
                         "cfl_prop": 7000
                     },
                     "27": {
                         "jet_dep": "SOSTO2F",
                         "cfl": 7000,
-                        "pro_dep": "SOSTO2F",
+                        "prop_dep": "SOSTO2F",
                         "cfl_prop": 7000
                     }
                 }
@@ -1873,13 +1873,13 @@
                     "09": {
                         "jet_dep": "SOVOS2D",
                         "cfl": 7000,
-                        "pro_dep": "SOVOS2D",
+                        "prop_dep": "SOVOS2D",
                         "cfl_prop": 7000
                     },
                     "27": {
                         "jet_dep": "SOVOS2F",
                         "cfl": 7000,
-                        "pro_dep": "SOVOS2F",
+                        "prop_dep": "SOVOS2F",
                         "cfl_prop": 7000
                     }
                 }
@@ -1890,13 +1890,13 @@
                     "09": {
                         "jet_dep": "VAVIX2D",
                         "cfl": 7000,
-                        "pro_dep": "VAVIX2D",
+                        "prop_dep": "VAVIX2D",
                         "cfl_prop": 7000
                     },
                     "27": {
                         "jet_dep": "VAVIX2F",
                         "cfl": 7000,
-                        "pro_dep": "VAVIX2F",
+                        "prop_dep": "VAVIX2F",
                         "cfl_prop": 7000
                     }
                 }
@@ -1907,13 +1907,13 @@
                     "09": {
                         "jet_dep": "DONOS2D",
                         "cfl": 8000,
-                        "pro_dep": "DONOS2D",
+                        "prop_dep": "DONOS2D",
                         "cfl_prop": 8000
                     },
                     "27": {
                         "jet_dep": "DONOS2F",
                         "cfl": 8000,
-                        "pro_dep": "DONOS2F",
+                        "prop_dep": "DONOS2F",
                         "cfl_prop": 8000
                     }
                 }
@@ -1924,19 +1924,20 @@
                     "09": {
                         "jet_dep": "SSN2D",
                         "cfl": 8000,
-                        "pro_dep": "SSN2D",
+                        "prop_dep": "SSN2D",
                         "cfl_prop": 8000
                     },
                     "27": {
                         "jet_dep": "SSN2F",
                         "cfl": 8000,
-                        "pro_dep": "SSN2F",
+                        "prop_dep": "SSN2F",
                         "cfl_prop": 8000
                     }
                 }
             }
         }
-    }"LFBD": {
+    },
+    "LFBD": {
         "elevation": 166,
         "sids": {
             "CNA": {
