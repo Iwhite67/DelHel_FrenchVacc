@@ -39,6 +39,43 @@
                     }
                 }
             },
+	    "OLZOM": {
+                "cfl": 3000,
+                "rwys": {
+                    "26R": {
+                        "jet_dep": "OLZOM5B",
+                        "prop_dep": "OLZOM5B",
+                        "unlink_jet_dep": "OLZOM5E",
+                        "unlink_prop_dep": "OLZOM5E",
+                        "cfl": 3000,
+                        "cfl_prop": 5000
+                    },
+                    "27L": {
+                        "jet_dep": "OLZOM5A",
+                        "prop_dep": "OLZOM5A",
+                        "unlink_jet_dep": "OLZOM5D",
+                        "unlink_prop_dep": "OLZOM5D",
+                        "cfl": 3000,
+                        "cfl_prop": 5000
+                    },
+                    "08L": {
+                        "jet_dep": "OLZOM5H",
+                        "prop_dep": "OLZOM5H",
+                        "unlink_jet_dep": "OLZOM5L",
+                        "unlink_prop_dep": "OLZOM5L",
+                        "cfl": 3000,
+                        "cfl_prop": 5000
+                    },
+                    "09R": {
+                        "jet_dep": "OLZOM5G",
+                        "prop_dep": "OLZOM5G",
+                        "unlink_jet_dep": "OLZOM5K",
+                        "unlink_prop_dep": "OLZOM5K",
+                        "cfl": 3000,
+                        "cfl_prop": 5000
+                    }
+                }
+            },
             "NURMO": {
                 "cfl": 10000,
                 "rwys": {
