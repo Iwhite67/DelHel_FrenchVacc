@@ -1,5 +1,7 @@
 ### Dans les tableaux suivants, retrouvez la liste des aeroports présent et à jour
 
+Paris group: configuration liée / inversée -> .delhel unlink
+
 ### Airport.json
 
 | ICAO | 2411 |
@@ -16,3 +18,7 @@
 | LFBO | :white_check_mark: |
 | LFBZ | :white_check_mark: |
 | LFBD | :white_check_mark: |
+
+
+Limitations connues:
+En configuration inversée les montée initiale restent inchangées, certaines sont à corriger manuellement.
