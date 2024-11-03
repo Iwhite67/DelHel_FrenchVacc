@@ -1580,13 +1580,13 @@
                     "17R": {
                         "jet_dep": "REPSI6S",
                         "cfl": 7000,
-						"prop_dep": "REPSI6S",
+			"prop_dep": "REPSI6S",
                         "cfl_prop": 7000
                     },
                     "35L": {
                         "jet_dep": "REPSI6N",
                         "cfl": 7000,
-						"prop_dep": "REPSI6N",
+			"prop_dep": "REPSI6N",
                         "cfl_prop": 7000
                     }
                 }
