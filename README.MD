@@ -3,7 +3,7 @@
 ### Airport.json
 
 | ICAO | 2411 |
-|--|--|--|
+|--|--|
 | LFPG | :white_check_mark: |
 | LFPO | :white_check_mark: |
 | LFPB | :white_check_mark: |
