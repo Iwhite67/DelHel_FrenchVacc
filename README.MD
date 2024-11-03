@@ -21,4 +21,4 @@ Paris group: configuration liée / inversée -> .delhel unlink
 
 
 Limitations connues:
-En configuration inversée les montée initiale restent inchangées, certaines sont à corriger manuellement.
+En configuration inversée les montées initiales restent inchangées, certaines sont à corriger manuellement.
