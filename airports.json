@@ -3743,5 +3743,334 @@
                 }
             }
         }
-    }
+    },
+"LFML": {
+	"elevation": 70,
+            "sids": {
+               "ETREX": {
+                "cfl": 5000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "ETREX6S",
+                        "prop_dep": "ETREX6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "13L": {
+                        "jet_dep": "ETREX6S",
+                        "prop_dep": "ETREX6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		},
+		    "31R": {
+                        "jet_dep": "ETREX6N",
+                        "prop_dep": "ETREX6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "31L": {
+                        "jet_dep": "ETREX6N",
+                        "prop_dep": "ETREX6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		}
+        	     }
+		},
+	"FJR": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "FJR6S",
+                        "prop_dep": "FJR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "13L": {
+                        "jet_dep": "FJR6S",
+                        "prop_dep": "FJR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+		    "31R": {
+                        "jet_dep": "FJR6N",
+                        "prop_dep": "FJR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "FJR6N",
+                        "prop_dep": "FJR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+        	     }
+		},
+	"LERGA": {
+                "cfl": 7000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "LERGA6S",
+                        "prop_dep": "LERGA6S",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "13L": {
+                        "jet_dep": "LERGA6S",
+                        "prop_dep": "LERGA6S",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+          		},
+		    "31R": {
+                        "jet_dep": "LERGA6N",
+                        "prop_dep": "LERGA6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "31L": {
+                        "jet_dep": "LERGA6N",
+                        "prop_dep": "LERGA6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		}
+        	     }
+		},
+	"LUC": {
+                "cfl": 5000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "LUC6S",
+                        "prop_dep": "LUC6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "13L": {
+                        "jet_dep": "LUC6S",
+                        "prop_dep": "LUC6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		},
+		    "31R": {
+                        "jet_dep": "LUC6N",
+                        "prop_dep": "LUC6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "31L": {
+                        "jet_dep": "LUC6N",
+                        "prop_dep": "LUC6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		}
+        	     }
+		},
+	"MAMES": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "MAMES6S",
+                        "prop_dep": "MAMES6S",
+                        "cfl": 000,
+                        "cfl_prop": 4000
+                    },
+                    "13L": {
+                        "jet_dep": "MAMES6S",
+                        "prop_dep": "MAMES6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+		    "31R": {
+                        "jet_dep": "MAMES6N",
+                        "prop_dep": "MAMES6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "MAMES6N",
+                        "prop_dep": "MAMES6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+        	     }
+		},
+	"MTL": {
+                "cfl": 7000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "MTL6S",
+                        "prop_dep": "MTL6S",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "13L": {
+                        "jet_dep": "MTL6S",
+                        "prop_dep": "MTL6S",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+          		},
+		    "31R": {
+                        "jet_dep": "MTL6N",
+                        "prop_dep": "MTL6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "31L": {
+                        "jet_dep": "MTL6N",
+                        "prop_dep": "MTL6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		}
+        	     }
+		},
+	"NASIK": {
+                "cfl": 5000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "NASIK6S",
+                        "prop_dep": "NASIK6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "13L": {
+                        "jet_dep": "NASIK6S",
+                        "prop_dep": "NASIK6S",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		},
+		    "31R": {
+                        "jet_dep": "NASIK6N",
+                        "prop_dep": "NASIK6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    },
+                    "31L": {
+                        "jet_dep": "NASIK6N",
+                        "prop_dep": "NASIK6N",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+          		}
+        	     }
+		},
+	"SORUR": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "SORUR6S",
+                        "prop_dep": "SORUR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "13L": {
+                        "jet_dep": "SORUR6S",
+                        "prop_dep": "SORUR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+		    "31R": {
+                        "jet_dep": "SORUR6N",
+                        "prop_dep": "SORUR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "SORUR6N",
+                        "prop_dep": "SORUR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+        	     }
+		},
+	"TINOT": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "TINOT6S",
+                        "prop_dep": "TINOT6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "13L": {
+                        "jet_dep": "TINOT6S",
+                        "prop_dep": "TINOT6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+		    "31R": {
+                        "jet_dep": "TINOT6N",
+                        "prop_dep": "TINOT6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "TINOT6N",
+                        "prop_dep": "TINOT6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+        	     }
+		}, 
+	"VATIR": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "VATIR6S",
+                        "prop_dep": "VATIR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "13L": {
+                        "jet_dep": "VATIR6S",
+                        "prop_dep": "VATIR6S",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+		    "31R": {
+                        "jet_dep": "VATIR6N",
+                        "prop_dep": "VATIR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "VATIR6N",
+                        "prop_dep": "VATIR6N",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+        	     }
+		},
+	}, 
+	"MADRA": {
+                "cfl": 4000,
+                "rwys": {
+                    "13R": {
+                        "jet_dep": "MADRA6B",
+                        "prop_dep": "MADRA6B",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+		     "13L": {
+                        "jet_dep": "MADRA6B",
+                        "prop_dep": "MADRA6B",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		},
+	}, 
+	"MTG": {
+                "cfl": 4000,
+                "rwys": {
+                    "31R": {
+                        "jet_dep": "MTG6C",
+                        "prop_dep": "MTG6C",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "31L": {
+                        "jet_dep": "MTG6C",
+                        "prop_dep": "MTG6C",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+          		}
+		}
+	}
+     }
+  }
 }
