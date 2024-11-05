@@ -18,6 +18,7 @@ Paris group: configuration liée / inversée -> .delhel unlink
 | LFBO | :white_check_mark: |
 | LFBZ | :white_check_mark: |
 | LFBD | :white_check_mark: |
+| LFML | :white_check_mark: |
 
 
 Limitations connues:
