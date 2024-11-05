@@ -3869,7 +3869,7 @@
                     "13R": {
                         "jet_dep": "MAMES6S",
                         "prop_dep": "MAMES6S",
-                        "cfl": 000,
+                        "cfl": 4000,
                         "cfl_prop": 4000
                     },
                     "13L": {
@@ -4068,9 +4068,9 @@
                         "prop_dep": "MTG6C",
                         "cfl": 4000,
                         "cfl_prop": 4000
-          		}
-		}
+         }
 	}
+       }
+      }
      }
-  }
-}
+    }
