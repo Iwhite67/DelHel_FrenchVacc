@@ -1405,5 +1405,30 @@
         ]
       }
     ]
+  },
+  "LFML": {
+    "entry": [
+      {
+        "name": "LUC",
+        "routes": [
+          {
+            "icao": "LFMN",
+            "maxlvl": 090,
+            "minlvl": 0,
+            "waypoints": []
+          }
+        ]
+      },
+      "name": "MTG",
+        "routes": [
+          {
+            "icao": "LFMN",
+            "maxlvl": 090,
+            "minlvl": 0,
+            "waypoints": []
+          }
+        ]
+      }
+    ]
   }
 }
