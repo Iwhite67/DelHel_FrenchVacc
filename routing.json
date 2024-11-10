@@ -917,6 +917,12 @@
                         "maxlvl": 195,
                         "minlvl": 135,
                         "waypoints": []
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 999,
+                        "minlvl": 135,
+                        "waypoints": []
                     }
                 ]
             },
