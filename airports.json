@@ -1534,6 +1534,23 @@
                     }
                 }
             },
+            "MOKIP": {
+                "cfl": 7000,
+                "rwys": {
+                    "17R": {
+                        "jet_dep": "MOKIP6S",
+                        "cfl": 7000,
+                        "prop_dep": "MOKIP6S",
+                        "cfl_prop": 7000
+                    },
+                    "35L": {
+                        "jet_dep": "MOKIP6N",
+                        "cfl": 7000,
+                        "prop_dep": "MOKIP6N",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
             "MTL": {
                 "cfl": 5000,
                 "rwys": {
