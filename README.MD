@@ -4,7 +4,7 @@ Paris group: configuration liée / inversée -> .delhel unlink
 
 ### Airport.json
 
-| ICAO | 2411 |
+| ICAO | 2412 |
 |--|--|
 | LFPG | :white_check_mark: |
 | LFPO | :white_check_mark: |
