@@ -1,6 +1,6 @@
 ### Dans les tableaux suivants, retrouvez la liste des aeroports présent et à jour
 
-Paris group: configuration liée / inversée -> .delhel unlink
+Paris group: configuration liée / inversée -> .delhel link or unlink
 
 ### Airport.json
 
