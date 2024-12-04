@@ -1659,19 +1659,19 @@
         "elevation": 505,
         "sids": {
             "POGOL": {
-                "cfl": 7000,
+                "cfl": 9000,
                 "rwys": {
                     "23": {
-                        "jet_dep": "POGOL1Y",
-                        "cfl": 7000,
-                        "pro_dep": "POGOL1Y",
-                        "cfl_prop": 7000
+                        "jet_dep": "POGOL2Y",
+                        "cfl": 9000,
+                        "pro_dep": "POGOL2Y",
+                        "cfl_prop": 9000
                     },
                     "05": {
-                        "jet_dep": "POGOL1Z",
-                        "cfl": 7000,
-                        "pro_dep": "POGOL1Z",
-                        "cfl_prop": 7000
+                        "jet_dep": "POGOL2Z",
+                        "cfl": 9000,
+                        "pro_dep": "POGOL2Z",
+                        "cfl_prop": 9000
                     }
                 }
             },
